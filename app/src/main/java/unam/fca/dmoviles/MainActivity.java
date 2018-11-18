@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
 
 
     private SwipeRefreshLayout mSwipeRefreshLayout;
-    private static String OPEN_WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather?id=3530597&&units=metric&appid=REMPLAZAR_POR_API_KEY";
+    private static String OPEN_WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather?id=3530597&&units=metric&appid=e791c3405b925a3a5e979ff8c99fd32e";
 
 
 
